@@ -1,0 +1,12 @@
+langchain
+langgraph
+langsmith
+transformers
+torch
+ragas
+aliyun-python-sdk
+oss2
+weaviate-client
+pandas
+numpy
+black
